@@ -4,7 +4,7 @@
 
 #### 1. background
 
-[jianshu](www.jianshu.com) won't support to close all comments of articles again.
+[jianshu](http://www.jianshu.com) won't support to close all comments of articles again.
 
 So I write two tampermonkey scripts to close the comments.
 
