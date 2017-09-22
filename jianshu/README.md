@@ -2,7 +2,7 @@
 
 <br/>
 
-#### background
+#### 1. background
 
 [jianshu](www.jianshu.com) won't support to close all comments of articles again.
 
@@ -10,7 +10,7 @@ So I write two tampermonkey scripts to close the comments.
 
 <br/>
 
-#### use case
+#### 2. use case
 
 **(1) jianshu-individual.js**
 
